@@ -1,6 +1,6 @@
 # Constitution of the Web Development Club
 
-## Official Title
+## Name
 
 The official name of this recognized campus group is "UofT Web Development Club". The acronym or abbreviation of this group is UofTWDC
 
