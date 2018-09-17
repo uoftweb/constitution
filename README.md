@@ -133,7 +133,7 @@ The Faculty Liaison shall:
 
 ## Finances
 
-The president, VP and treasurer will open a bank account under the group's name. The president, VP and treasurer will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the treasurer if funds are to be withdrawn. A receipt must be produced for records.
+The President, VP and Treasurer will open a bank account under the group's name. The President, VP and Treasurer will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the Treasurer if funds are to be withdrawn. A receipt must be produced for records.
 
 The Treasurer shall keep records of all income and expenses. The Treasurer shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over $100.00 by majority vote at an executive meeting.
 
@@ -175,7 +175,7 @@ All members of the Executive team's positions are open for re-elections at the e
 
 The group shall hold general meetings at least twice per year, i.e. once per academic term.
 
-The Executive Committee will announce these dates two (2) weeks prior to holding the meetings. These meetings are intended to go over the group’s annual activity plan, financial health and propose or vote on constitutional amendments, if any. Motions will require 2/3majority of registered members in attendance for a vote to be cast. The motion with the most votes will be passed.
+The Executive Committee will announce these dates two (2) weeks prior to holding the meetings. These meetings are intended to go over the group’s annual activity plan, financial health and propose or vote on constitutional amendments, if any. Motions will require 2/3 majority of registered members in attendance for a vote to be cast. The motion with the most votes will be passed.
 
 ### Executive Meetings
 
