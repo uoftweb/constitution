@@ -14,23 +14,24 @@ The club aims to host seminars, development sessions, hackathons, entrepreneur s
 
 ## Membership
 
-Membership to the group is open to all the University of Toronto members (students, staff, faculty and alumni).
+Executive members with voting privileges shall be currently registered students of the University of Toronto.
 
-U of T members are permitted to run, nominate, and vote in elections and constitutional amendments. The group is open to non-U of T members. However, these members do not hold the aforementioned rights. Members must register with a designated executive by submitting their full name and a valid email address.
+Staff, faculty, or alumni members may hold non-voting executive positions. These nonvoting executive positions shall be limited to a maximum of one (1) or ten per cent (10%) of the full executive body, whichever is greatest. Persons holding these nonvoting executive positions cannot serve as an officer (including financial signing officer) or contact person of the Student Group.
 
-For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 30 members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met.
+Non-voting membership may be extended to interested staff, faculty, and alumni, or persons from outside the University, without restriction on those grounds outlined by the Ontario Human Rights Code’s Prohibited Grounds of Discrimination. However, these members do not hold the aforementioned rights. Members must register with a designated executive by submitting their full name and a valid email address.
+
+There will be no membership fee
+
+For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 30 members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met. 
 
 ## Termination of Executives or General Members
 
-Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal.
-
-The member up for removal shall have the right to defend his/her actions.
-
-A two-thirds majority vote of the current members present in favour of removal is required.
+Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal. The member up for removal shall have the right to defend his/her actions. A vote will be held at an executive meeting, and a two-thirds majority vote of the current executives present in favor of removal is required.  The member must have the right to an appeal before the general membership, and the majority vote of the general membership will have the final say on the matter.
 
 The member will be removed from the club’s membership and will lose any privileges associated with being a member of the club.
 
 Executive members are subject to the same termination or impeachment process and, as determined by the vote, may lose their executive position along with their membership to the group.
+
 
 ### Impeachment procedure
 
@@ -145,23 +146,24 @@ The group’s executive or members may not engage in activities that are essenti
 
 ### Election Process
 
-The executive committee shall strike the Elections Committee and appoint one (1) Chief Returning Officer (CRO) and two (2) Scrutinizers from the general members on the committee to conduct and hold elections in March. All members of the Elections Committee shall be nonbiased in the results of the election and shall be required to disclose any and all conflicts of interest in the election.
+The executive committee shall strike the Elections Committee and appoint one (1) Chief Returning Officer (CRO) and two (2) Scrutinizers from the general members on the committee to conduct and hold elections in March. All members of the Elections Committee shall be non-biased in the results of the election and shall be required to disclose any and all conflicts of interest in the election.
 
-The CRO Returning Officer shall accept nominations only from group members that are also registered U of T members (staff, faculty, students and alumni) for candidacy of executive positions from the general membership before the beginning of March. Candidates have to be members in good standing and be part of the group for at least one year prior to the nomination period.
+The CRO Returning Officer shall accept nominations only from group members that are registered U of T students for voting positions, and staff, faculty, or alumni members for non-voting executive positions from the general membership before the beginning of March. Candidates have to be members in good standing and be part of the group for at least one month prior to the nomination period.
 
 The CRO shall select three (3) election dates before March 30th for the voting period. These dates will be announced in a minimum of two (2) weeks prior to elections dates and must fall on weekdays.
 
-The CRO and Scrutinizers shall provide each U of T member with a paper ballot on the voting dates and ask the member to place their ballot in an enclosed box.
+The CRO and Scrutinizers shall provide each voting U of T registered student with a paper ballot on the voting dates and ask the student to place their ballot in an enclosed box. 
 
-In preparation for a tie, the CRO shall select an executive from amongst the executive committee, to cast their ballot and seal it in an envelope. In the event of a tie for an executive position, one of the two Scrutinizers shall break the seal and count the ballot in order to break the tie.
+In preparation for a tie, the CRO shall select a U of T registered student executive from amongst the executive committee, to cast their ballot and seal it in an envelope. In the event of a tie for an executive position, one of the two Scrutinizers shall break the seal and count the ballot in order to break the tie.
 
-After the election is over, the CRO and Scrutinizers shall count the ballots. The candidate with the most votes shall be elected to the position. The CRO and Scrutinizers shall submit a report of the results of the elections to the Executive Committee and general members.
+After the election is over, the CRO and Scrutinizers shall count the ballots. The candidate with the most votes shall be elected to the position. The CRO and Scrutinizers shall submit a report of the results of the elections to the Executive Committee and general members. 
 
-Registered U of T members may not vote by proxy. Non-U of T members may not nominate or vote in elections.
+Registered U of T students may not vote by proxy. Non-registered students may not nominate or vote in elections. 
 
-Only U of T members who have attend seminars and have been a member in good standing for 30 days prior to election dates are eligible for voting.
+Only registered U of T students who have paid any applicable membership fees and have been a member in good standing for 30 days prior to election dates are eligible for voting.
 
 Term of executive positions shall be from May 1st to April 30th.
+
 
 ### Candidate Nominations
 
