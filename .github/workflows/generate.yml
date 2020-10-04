@@ -30,7 +30,7 @@ jobs:
       # Generate HTML file
       - uses: docker://pandoc/latex:2.9
         with:
-          args: -s --toc README.md -o output/index.html
+          args: -s --toc -c pandoc.css README.md -o output/index.html
 
       # Upload artifacts
       - uses: actions/upload-artifact@master
