@@ -25,7 +25,12 @@ jobs:
       # Generate PDF file
       - uses: docker://pandoc/latex:2.9
         with:
-          args: -s README.md -o output/constitution.pdf
+          args: README.md -o output/constitution.pdf
+
+      # Generate HTML file
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: -s --toc README.md -o output/index.html
 
       # Upload artifacts
       - uses: actions/upload-artifact@master
