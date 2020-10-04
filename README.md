@@ -185,7 +185,7 @@ The Executive Committee will announce these dates two (2) weeks prior to holding
 
 The executive committee shall meet on a monthly basis where date and times are to be set by an executive. The quorum of executive meetings shall be 50%+1 of executives
 
-## Ammendments
+## Amendments
 
 Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general
 meetings.
