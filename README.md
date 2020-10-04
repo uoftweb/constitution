@@ -4,7 +4,7 @@
 
 The official name of this recognized campus group is `UofT Web Development Club`. 
 
-The acronym or abbreviation of this group is `UofTWDC`
+The acronym or abbreviation of this group is `UofT WDC`
 
 ## Purpose and Objective
 
