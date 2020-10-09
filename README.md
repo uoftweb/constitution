@@ -43,7 +43,7 @@ Executive members are subject to the same termination or impeachment process and
 ## Executive Lists and Duties
 
 The executive committee shall be comprised of eight (8) elected officers. These include a
-President, VP Admin, Treasurer, Resource Manager, Project Manager, Public Relations, Web
+President, VP Admin, Executive Secretary, Resource Director, Technology Chief, Public Relations, Web
 Design & Graphics, and the Faculty Liaison. All members on the executive committee are given
 equal voting rights on issues.
 
@@ -62,7 +62,7 @@ The President shall:
 - Handle official correspondence of the organization
 - Make a list of all registered members
 - Record notes and motions for meetings
-- Store the passwords and account names the Github, Club email, servers, Google Drive, and other paid and free services
+
 
 ### VP Admin
 
@@ -79,9 +79,9 @@ The VP Admin shall:
 - Manage and maintain updates from the Web Design & Graphics
 - Manage and regulate the tutorial and seminar presenters
 
-### Treasurer
+### Executive Secretary
 
-The Treasurer shall:
+The Executive Secretary shall:
 
 - Record all financial transactions of the group
 - Hold signing officer authority along with the President for financial purposes
@@ -90,21 +90,36 @@ The Treasurer shall:
 - Prepare an annual budget for the group as well as budgets for specific events
 - Keep track of the blank bank checks and receipts
 
-### Project Manager
+### Resource Director
 
-The Project Manager shall:
+The Resource Director shall:
 
 - Keep track of the list of current active projects registered under the club
 - Keep track of the list of members working on the certain projects.
 - Ensure and regulate the projects and leaders working under the projects
-- Cooperate with the Resource Manager
+- Moderate communications channels.
+- Setup meeting rooms (virtual)
+- Cooperate with the Technology Chief
+
+### Technology Chief
+
+The Technology Chief shall:
+
+- Responsible for maintaining the permissions to access into the Github accounts
+- Responsible for maintaining Github configurations
+- Responsible for configuring communication channels (Discord,..)
+- Work with Project and Workshop Directors to curate resources.
+- Gain/remove permission for individual users and project leaders
+- Maintain the access and passwords for paid services and files
+- Keep track of all assets currently controlled by the club
+- Store the passwords and account names the Github, Club email, servers, Google Drive, and other paid and free services
 
 ### Public Relations
 
 The Public Relations shall:
 
 - Manage and maintain updates from the Faculty Liaison
-- Find and book venues to hold these events.
+- Find and book venues to hold these events. 
 - Advertise the events within UofT regulations in the form of hackathons, entrepreneur social events, and professional company recruitment events
 - Put together a team of members, if help is needed to run the events
 - Seek professionals and companies for sponsorships, professional seminars and talks
@@ -117,15 +132,6 @@ The Web Design & Graphics shall:
 - Assist the development team with art and illustration related assistance.
 - Design the promotion posters and WebPages for external events
 
-### Resource Manager
-
-The Resource Manager shall:
-
-- Responsible for maintaining the permissions to access into the Github accounts
-- Gain/ remove permission for individual users and project leaders
-- Maintain the access and passwords for paid services and files
-- Keep track of all assets currently controlled by the club
-
 ### Faculty Liason
 
 The Faculty Liaison shall:
@@ -136,9 +142,9 @@ The Faculty Liaison shall:
 
 ## Finances
 
-The President, VP and Treasurer will open a bank account under the group's name. The President, VP and Treasurer will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the Treasurer if funds are to be withdrawn. A receipt must be produced for records.
+The President, VP and Executive Secretary will open a bank account under the group's name. The President, VP and Executive Secretary will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the Executive Secretary if funds are to be withdrawn. A receipt must be produced for records.
 
-The Treasurer shall keep records of all income and expenses. The Treasurer shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over $100.00 by majority vote at an executive meeting.
+The Executive Secretary shall keep records of all income and expenses. The Executive Secretary shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over $100.00 by majority vote at an executive meeting.
 
 The group’s executive or members may not engage in activities that are essentially commercial in nature. This is not intended to preclude the collection of membership fees to cover the expenses of the group, or of charges for specific activities, programs or events, or to prohibit groups from engaging in legitimate fundraising. However, the group will not have as a major activity a function that makes it an on-campus part of a commercial organization, will not provide services and goods at a profit when that profit is used for purposes other than those of the organization, and will not pay salaries to some or all of its officers
 
