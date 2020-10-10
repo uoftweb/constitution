@@ -20,20 +20,21 @@ The club aims to host seminars, development sessions, hackathons, entrepreneur s
 
 Executive members with voting privileges shall be currently registered students of the University of Toronto.
 
+Staff, faculty, or alumni members may hold non-voting executive positions. These non-voting executive positions shall be limited to a maximum of one (1) or ten per cent (10%) of the full executive body, whichever is greatest. Persons holding these non-voting executive positions cannot serve as an officer (including financial signing officer) or contact person of the Student Group.
+
 Non-voting membership may be extended to interested staff, faculty, and alumni, or persons from outside the University, without restriction on those grounds outlined by the Ontario Human Rights Code’s Prohibited Grounds of Discrimination. However, these members do not hold the aforementioned rights. Members must register with a designated executive by submitting their full name and a valid email address.
 
-There will be no membership fee
+**There will be no membership fee.**
 
-For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 5 executive members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met. 
+For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 15 members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met.
 
 ## Termination of Executives or General Members
 
-Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal. The member up for removal shall have the right to defend his/her actions. A vote will be held at an executive meeting, and a two-thirds majority vote of the current executives present in favor of removal is required.  The member must have the right to an appeal before the general membership, and the majority vote of the general membership will have the final say on the matter.
+Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal. The member up for removal shall have the right to defend his/her actions. A vote will be held at an executive meeting, and a two-thirds majority vote of the current executives present in favor of removal is required. The member must have the right to an appeal before the general membership, and the majority vote of the general membership will have the final say on the matter.
 
 The member will be removed from the club’s membership and will lose any privileges associated with being a member of the club.
 
 Executive members are subject to the same termination or impeachment process and, as determined by the vote, may lose their executive position along with their membership to the group.
-
 
 ### Impeachment procedure
 
@@ -64,7 +65,6 @@ The President shall:
 - Handle official correspondence of the organization
 - Make a list of all registered members
 - Record notes and motions for meetings
-
 
 ### VP Admin
 
@@ -109,7 +109,7 @@ The Technology Chief shall:
 
 - Responsible for maintaining the permissions to access into the Code Provisioning accounts
 - Responsible for maintaining code provisioning configurations
-- Responsible for configuring communication channels 
+- Responsible for configuring communication channels
 - Work with Project and Workshop Directors to curate resources.
 - Gain/remove permission for individual users and project leaders
 - Maintain the access and passwords for paid services and files
@@ -121,7 +121,7 @@ The Technology Chief shall:
 The Public Relations shall:
 
 - Manage and maintain updates from the Faculty Liaison
-- Find and book venues to hold these events. 
+- Find and book venues to hold these events.
 - Advertise the events within UofT regulations in the form of hackathons, entrepreneur social events, and professional company recruitment events
 - Put together a team of members, if help is needed to run the events
 - Seek professionals and companies for sponsorships, professional seminars and talks
@@ -146,7 +146,7 @@ The Faculty Liaison shall:
 
 The President, VP and Executive Secretary will open a bank account under the group's name. The President, VP and Executive Secretary will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the Executive Secretary if funds are to be withdrawn. A receipt must be produced for records.
 
-The Executive Secretary shall keep records of all income and expenses. The Executive Secretary shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over $100.00 by majority vote at an executive meeting.
+The Executive Secretary shall keep records of all income and expenses. The Executive Secretary shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over \$100.00 by majority vote at an executive meeting.
 
 The group’s executive or members may not engage in activities that are essentially commercial in nature. This is not intended to preclude the collection of membership fees to cover the expenses of the group, or of charges for specific activities, programs or events, or to prohibit groups from engaging in legitimate fundraising. However, the group will not have as a major activity a function that makes it an on-campus part of a commercial organization, will not provide services and goods at a profit when that profit is used for purposes other than those of the organization, and will not pay salaries to some or all of its officers
 
@@ -160,20 +160,20 @@ The CRO Returning Officer shall accept nominations only from group members that 
 
 The CRO shall select three (3) election dates before March 30th for the voting period. These dates will be announced in a minimum of two (2) weeks prior to elections dates and must fall on weekdays.
 
-The CRO and Scrutinizers shall provide each voting U of T registered student with a paper ballot on the voting dates and ask the student to place their ballot in an enclosed box. 
+The CRO and Scrutinizers shall provide each voting U of T registered student with a paper ballot on the voting dates and ask the student to place their ballot in an enclosed box.
 
 In preparation for a tie, the CRO shall select a U of T registered student executive from amongst the executive committee, to cast their ballot and seal it in an envelope. In the event of a tie for an executive position, one of the two Scrutinizers shall break the seal and count the ballot in order to break the tie.
 
-After the election is over, the CRO and Scrutinizers shall count the ballots. The candidate with the most votes shall be elected to the position. The CRO and Scrutinizers shall submit a report of the results of the elections to the Executive Committee and general members. 
+After the election is over, the CRO and Scrutinizers shall count the ballots. The candidate with the most votes shall be elected to the position. The CRO and Scrutinizers shall submit a report of the results of the elections to the Executive Committee and general members.
 
-Registered U of T students may not vote by proxy. Non-registered students may not nominate or vote in elections. 
+Registered U of T students may not vote by proxy. Non-registered students may not nominate or vote in elections.
 
 Only registered U of T students who have paid any applicable membership fees and have been a member in good standing for 30 days prior to election dates are eligible for voting.
 
 Term of executive positions shall be from May 1st to April 30th.
 
-
 ### Candidate Nominations
+
 A record of all their participations within the club, their development skills, and their resume.
 
 ### Maximum term of Executive Council
@@ -194,11 +194,8 @@ The executive committee shall meet on a monthly basis where date and times are t
 
 ## Amendments
 
-Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general
-meetings.
+Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general meetings.
 
 Constitutional amendments can be made at any time but will require 2/3rd of the exeuctive vote to pass.
 
-Amendment changes will be noted in an index form at the end of the constitution.
-
-The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by executive members.
+The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by general members.
