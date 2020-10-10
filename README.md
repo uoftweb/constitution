@@ -174,7 +174,7 @@ Term of executive positions shall be from May 1st to April 30th.
 
 ### Candidate Nominations
 
-A record of all their participations within the club, their development skills, and their resume.
+A member of the Web Development Club can only apply to run for one executive position. The nomination package must include five signatures from other members of the club, a record of all their participations within the club, their development skills, and their resume.
 
 ### Maximum term of Executive Council
 
