@@ -45,102 +45,86 @@ Executive members are subject to the same termination or impeachment process and
 
 ## Executive Lists and Duties
 
-The executive committee shall be comprised of five officers. These include a
-President, VP Admin, Executive Secretary, Resource Director, Technology Chief, Public Relations, Web
-Design & Graphics, and the Faculty Liaison. All members on the executive committee are given
+The executive committee shall be comprised of six officers. These include:
+
+- [President](#president)
+- [Vice President](#vice-president)
+- [Executive Secretary](#executive-secretary)
+- [Finance Director](#finance-director)
+- [Marketing Director](#marketing-director)
+- [Technology Director](#technology-director)
+
+All members on the executive committee are given
 equal voting rights on issues.
 
 ### President
 
 The President shall:
 
-- Oversee the operations, management and success of the group
-- Be the spokesperson for the group
-- Hold signing officer authority along with the Treasurer for financial purposes
-- Preside over board meetings as well as general meetings
-- Ensure transition of office to the future Executives
-- Manage and maintain updates from VP Admin, the Treasurer, Public Relations, and Project
-  Managers
+- Oversee the operations, management and success of the club
+- Be the spokesperson for the club
+- Hold **signing officer authority** along with the Finance Director for financial purposes
+- Preside over executive meetings as well as general meetings
+- Ensure transition of office to the future executives
+- Manage and maintain updates from executives
 - Liaison between the CSSU, UTSU, ULife, and other Computer Science and Engineering Clubs
 - Handle official correspondence of the organization
-- Make a list of all registered members
-- Record notes and motions for meetings
+- Manage club membership and responsibilities
 
-### VP Admin
+### Vice President
 
-The VP Admin shall:
+The Vice President shall:
 
 - Assume duties of the President in his/her absence
-- Oversee the various committees
+- Oversee the various initiatives of the club
 - Ensure that all the activities of the club meet regulations and policies of the University of Toronto
 - Coordinate organizational recruitment efforts
-- Book rooms for the tutorials
-- Add tutorials to the repository for people to check
-- Maintain the web sites and member contact list
 - Notify all members of meetings
-- Manage and maintain updates from the Web Design & Graphics
-- Manage and regulate the tutorial and seminar presenters
+- Manage and maintain updates from the initiative teams
+- Seek professionals and companies for sponsorships, professional seminars and talks
+- Maintain updates and connections with the Departments
 
 ### Executive Secretary
 
 The Executive Secretary shall:
 
+- Record notes and motions for meetings
+- Maintain documentation for events and initiatives
+- Manage club calendar, internal tasks, and roadmap
+- Moderate social media and communication channels
+- Keep track of the list of current active projects registered under the club
+- Keep track of the list of members working on the certain projects.
+
+### Finance Director
+
+The Finance Director shall:
+
 - Record all financial transactions of the group
-- Hold signing officer authority along with the President for financial purposes
+- Hold **signing officer authority** along with the President for financial purposes
 - Maintain a budget of income and expenses along with receipts
 - Advise members on financial position of the group
 - Prepare an annual budget for the group as well as budgets for specific events
 - Keep track of the blank bank checks and receipts
 
-### Resource Director
+### Marketing Director
 
-The Resource Director shall:
+The Marketing Director shall:
 
-- Keep track of the list of current active projects registered under the club
-- Keep track of the list of members working on the certain projects.
-- Ensure and regulate the projects and leaders working under the projects
-- Moderate communications channels.
-- Setup meeting rooms (virtual)
-- Cooperate with the Technology Chief
+- Manage the development of graphics and marketing material for the club
+- Ensure brand consistency is followed all in club activities
+- Collaborate with Exective Secretary to update social media platforms and establish a strong social media presence
+- Plan out timeline and set deadlines to grow Web Development Club’s community
 
-### Technology Chief
+### Technology Director
 
-The Technology Chief shall:
+The Technology Director shall:
 
-- Responsible for maintaining the permissions to access into the Code Provisioning accounts
+- Maintain access to accounts for source code and technological infrastructure
 - Responsible for maintaining code provisioning configurations
 - Responsible for configuring communication channels
-- Work with Project and Workshop Directors to curate resources.
-- Gain/remove permission for individual users and project leaders
-- Maintain the access and passwords for paid services and files
+- Work with Project and Workshop Directors to curate resources
 - Keep track of all assets currently controlled by the club
-- Store the passwords and account names in a reliable 2 factor-authenticated password manager.
-
-### Public Relations
-
-The Public Relations shall:
-
-- Manage and maintain updates from the Faculty Liaison
-- Find and book venues to hold these events.
-- Advertise the events within UofT regulations in the form of hackathons, entrepreneur social events, and professional company recruitment events
-- Put together a team of members, if help is needed to run the events
-- Seek professionals and companies for sponsorships, professional seminars and talks
-
-### Web Design & Graphics
-
-The Web Design & Graphics shall:
-
-- Design the logo, banner and arts for the club webpage
-- Assist the development team with art and illustration related assistance.
-- Design the promotion posters and WebPages for external events
-
-### Faculty Liason
-
-The Faculty Liaison shall:
-
-- Maintain updates and connections with the Departments
-- Request faculty support and assistance for events and seminars if necessary
-- Coordinate the transfer of projects between the faculty and the club
+- Maintain the web sites and member contact list
 
 ## Finances
 
