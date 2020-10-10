@@ -10,19 +10,17 @@ The acronym or abbreviation of this group is `WDC`
 
 The purpose of the Web Development Club is the promotion of a positive academic and social environment for members to enhance their web development skills.
 
-The club aims to host seminars, development sessions, hackathons, entrepreneur social events, and professional company recruitment events to improve the development skills and future career opportunities for our members.
+The club aims to host seminars, development sessions, hackathons, entrepreneur social events, and professional company recruitment events to improve the development skills and future career opportunities for members and non-members of the uoft community.
 
 ## Membership
 
 Executive members with voting privileges shall be currently registered students of the University of Toronto.
 
-Staff, faculty, or alumni members may hold non-voting executive positions. These nonvoting executive positions shall be limited to a maximum of one (1) or ten per cent (10%) of the full executive body, whichever is greatest. Persons holding these nonvoting executive positions cannot serve as an officer (including financial signing officer) or contact person of the Student Group.
-
 Non-voting membership may be extended to interested staff, faculty, and alumni, or persons from outside the University, without restriction on those grounds outlined by the Ontario Human Rights Code’s Prohibited Grounds of Discrimination. However, these members do not hold the aforementioned rights. Members must register with a designated executive by submitting their full name and a valid email address.
 
 There will be no membership fee
 
-For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 30 members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met. 
+For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 5 executive members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met. 
 
 ## Termination of Executives or General Members
 
@@ -42,7 +40,7 @@ Executive members are subject to the same termination or impeachment process and
 
 ## Executive Lists and Duties
 
-The executive committee shall be comprised of eight (8) elected officers. These include a
+The executive committee shall be comprised of five officers. These include a
 President, VP Admin, Executive Secretary, Resource Director, Technology Chief, Public Relations, Web
 Design & Graphics, and the Faculty Liaison. All members on the executive committee are given
 equal voting rights on issues.
@@ -172,12 +170,11 @@ Term of executive positions shall be from May 1st to April 30th.
 
 
 ### Candidate Nominations
-
-A member of the Web Development Club can only apply to run for one executive position. The nomination package must include ten signatures from other members of the club, a record of all their participations within the club, their development skills, and their resume.
+A record of all their participations within the club, their development skills, and their resume.
 
 ### Maximum term of Executive Council
 
-All members of the Executive team's positions are open for re-elections at the end of every term.
+No executive positions are open for re-election. Rather, future executive members will be selected by current executive members.
 
 ## Meetings
 
@@ -185,19 +182,19 @@ All members of the Executive team's positions are open for re-elections at the e
 
 The group shall hold general meetings at least twice per year, i.e. once per academic term.
 
-The Executive Committee will announce these dates two (2) weeks prior to holding the meetings. These meetings are intended to go over the group’s annual activity plan, financial health and propose or vote on constitutional amendments, if any. Motions will require 2/3 majority of registered members in attendance for a vote to be cast. The motion with the most votes will be passed.
+The Executive Committee will announce these dates two (2) weeks prior to holding the meetings. These meetings are intended to go over the group’s annual activity plan, financial health and propose or vote on constitutional amendments, if any. Motions will require 2/3 majority of registered executive members in attendence or not in attendence to pass. The motion with the most votes will be passed.
 
 ### Executive Meetings
 
-The executive committee shall meet on a monthly basis where date and times are to be set by an executive. The quorum of executive meetings shall be 50%+1 of executives
+The executive committee shall meet on a monthly basis where date and times are to be set by an executive. The quorum of executive meetings shall be 50%+1 of executives. The quorum is assumed to be present unless an explicit roll call is made.
 
 ## Amendments
 
 Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general
 meetings.
 
-Constitutional amendments shall require a 2/3 majority to be passed at Annual General Meetings by registered U of T members in attendance.
+Constitutional amendments can be made at any time but will require 2/3rd of the exeuctive vote to pass.
 
 Amendment changes will be noted in an index form at the end of the constitution.
 
-The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by general members.
+The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by executive members.
