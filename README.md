@@ -105,14 +105,14 @@ The Resource Director shall:
 
 The Technology Chief shall:
 
-- Responsible for maintaining the permissions to access into the Github accounts
-- Responsible for maintaining Github configurations
-- Responsible for configuring communication channels (Discord,..)
+- Responsible for maintaining the permissions to access into the Code Provisioning accounts
+- Responsible for maintaining code provisioning configurations
+- Responsible for configuring communication channels 
 - Work with Project and Workshop Directors to curate resources.
 - Gain/remove permission for individual users and project leaders
 - Maintain the access and passwords for paid services and files
 - Keep track of all assets currently controlled by the club
-- Store the passwords and account names the Github, Club email, servers, Google Drive, and other paid and free services
+- Store the passwords and account names in a reliable 2 factor-authenticated password manager.
 
 ### Public Relations
 
