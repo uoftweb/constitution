@@ -2,9 +2,13 @@
 
 ## Name
 
-The official name of this recognized campus group is `UofT Web Development Club`. 
+The official name of this recognized student group is `UofT Web Development Club`.
 
-The acronym or abbreviation of this group is `WDC`
+The acronym(s) or abbreviation(s) of this group is:
+
+- `Web Dev Club`
+- `UofT WDC`
+- `WDC`
 
 ## Purpose and Objective
 
