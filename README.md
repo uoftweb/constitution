@@ -4,7 +4,7 @@
 
 The official name of this recognized student group is `UofT Web Development Club`.
 
-The acronym(s) or abbreviation(s) of this group is:
+The acronym(s) or abbreviation(s) of this group are:
 
 - `Web Dev Club`
 - `UofT WDC`
@@ -12,9 +12,11 @@ The acronym(s) or abbreviation(s) of this group is:
 
 ## Purpose and Objective
 
-The purpose of the Web Development Club is the promotion of a positive academic and social environment for members to enhance their web development skills.
+The purpose of the Web Development Club is:
 
-The club aims to host seminars, development sessions, hackathons, entrepreneur social events, and professional company recruitment events to improve the development skills and future career opportunities for members and non-members of the uoft community.
+> "To promote a positive academic and social environment for members to enhance their web development skills."
+
+The club aims to host seminars, development sessions, hackathons, entrepreneur social events, and professional company recruitment events to improve the development skills and future career opportunities for members and non-members of the UofT community.
 
 ## Membership
 
@@ -54,8 +56,7 @@ The executive committee shall be comprised of six officers. These include:
 - [Marketing Director](#marketing-director)
 - [Technology Director](#technology-director)
 
-All members on the executive committee are given
-equal voting rights on issues.
+All members on the executive committee are given equal voting rights on issues.
 
 ### President
 
@@ -128,9 +129,9 @@ The Technology Director shall:
 
 ## Finances
 
-The President, VP and Executive Secretary will open a bank account under the group's name. The President, VP and Executive Secretary will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the Executive Secretary if funds are to be withdrawn. A receipt must be produced for records.
+The President, VP and Finance Director will open a bank account under the group's name. The President, VP and Finance Director will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the Finance Director if funds are to be withdrawn. A receipt must be produced for records.
 
-The Executive Secretary shall keep records of all income and expenses. The Executive Secretary shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over \$100.00 by majority vote at an executive meeting.
+The Finance Director shall keep records of all income and expenses. The Finance Director shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over \$100.00 by majority vote at an executive meeting.
 
 The group’s executive or members may not engage in activities that are essentially commercial in nature. This is not intended to preclude the collection of membership fees to cover the expenses of the group, or of charges for specific activities, programs or events, or to prohibit groups from engaging in legitimate fundraising. However, the group will not have as a major activity a function that makes it an on-campus part of a commercial organization, will not provide services and goods at a profit when that profit is used for purposes other than those of the organization, and will not pay salaries to some or all of its officers
 
@@ -180,6 +181,6 @@ The executive committee shall meet on a monthly basis where date and times are t
 
 Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general meetings.
 
-Constitutional amendments can be made at any time but will require 2/3rd of the exeuctive vote to pass.
+Constitutional amendments can be made at any time but will require 2/3rd of the executive vote to pass.
 
 The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by general members.
