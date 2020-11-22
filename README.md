@@ -76,7 +76,7 @@ The President shall:
 
 The Vice President shall:
 
-- Assume duties of the President in his/her absence
+- Assume duties of the President in his/her absence (including **signing office authority**)
 - Oversee the various initiatives of the club
 - Ensure that all the activities of the club meet regulations and policies of the University of Toronto
 - Coordinate organizational recruitment efforts
