@@ -2,9 +2,13 @@
 
 ## Name
 
-The official name of this recognized campus group is `UofT Web Development Club`. 
+The official name of this recognized student group is `UofT Web Development Club`.
 
-The acronym or abbreviation of this group is `WDC`
+The acronym(s) or abbreviation(s) of this group is:
+
+- `Web Dev Club`
+- `UofT WDC`
+- `WDC`
 
 ## Purpose and Objective
 
@@ -16,20 +20,21 @@ The club aims to host seminars, development sessions, hackathons, entrepreneur s
 
 Executive members with voting privileges shall be currently registered students of the University of Toronto.
 
+Staff, faculty, or alumni members may hold non-voting executive positions. These non-voting executive positions shall be limited to a maximum of one (1) or ten per cent (10%) of the full executive body, whichever is greatest. Persons holding these non-voting executive positions cannot serve as an officer (including financial signing officer) or contact person of the Student Group.
+
 Non-voting membership may be extended to interested staff, faculty, and alumni, or persons from outside the University, without restriction on those grounds outlined by the Ontario Human Rights Code’s Prohibited Grounds of Discrimination. However, these members do not hold the aforementioned rights. Members must register with a designated executive by submitting their full name and a valid email address.
 
-There will be no membership fee
+**There will be no membership fee.**
 
-For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 5 executive members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met. 
+For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 15 members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met.
 
 ## Termination of Executives or General Members
 
-Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal. The member up for removal shall have the right to defend his/her actions. A vote will be held at an executive meeting, and a two-thirds majority vote of the current executives present in favor of removal is required.  The member must have the right to an appeal before the general membership, and the majority vote of the general membership will have the final say on the matter.
+Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal. The member up for removal shall have the right to defend his/her actions. A vote will be held at an executive meeting, and a two-thirds majority vote of the current executives present in favor of removal is required. The member must have the right to an appeal before the general membership, and the majority vote of the general membership will have the final say on the matter.
 
 The member will be removed from the club’s membership and will lose any privileges associated with being a member of the club.
 
 Executive members are subject to the same termination or impeachment process and, as determined by the vote, may lose their executive position along with their membership to the group.
-
 
 ### Impeachment procedure
 
@@ -40,109 +45,92 @@ Executive members are subject to the same termination or impeachment process and
 
 ## Executive Lists and Duties
 
-The executive committee shall be comprised of five officers. These include a
-President, VP Admin, Executive Secretary, Resource Director, Technology Chief, Public Relations, Web
-Design & Graphics, and the Faculty Liaison. All members on the executive committee are given
+The executive committee shall be comprised of six officers. These include:
+
+- [President](#president)
+- [Vice President](#vice-president)
+- [Executive Secretary](#executive-secretary)
+- [Finance Director](#finance-director)
+- [Marketing Director](#marketing-director)
+- [Technology Director](#technology-director)
+
+All members on the executive committee are given
 equal voting rights on issues.
 
 ### President
 
 The President shall:
 
-- Oversee the operations, management and success of the group
-- Be the spokesperson for the group
-- Hold signing officer authority along with the Treasurer for financial purposes
-- Preside over board meetings as well as general meetings
-- Ensure transition of office to the future Executives
-- Manage and maintain updates from VP Admin, the Treasurer, Public Relations, and Project
-  Managers
+- Oversee the operations, management and success of the club
+- Be the spokesperson for the club
+- Hold **signing officer authority** along with the Finance Director for financial purposes
+- Preside over executive meetings as well as general meetings
+- Ensure transition of office to the future executives
+- Manage and maintain updates from executives
 - Liaison between the CSSU, UTSU, ULife, and other Computer Science and Engineering Clubs
 - Handle official correspondence of the organization
-- Make a list of all registered members
-- Record notes and motions for meetings
+- Manage club membership and responsibilities
 
+### Vice President
 
-### VP Admin
-
-The VP Admin shall:
+The Vice President shall:
 
 - Assume duties of the President in his/her absence
-- Oversee the various committees
+- Oversee the various initiatives of the club
 - Ensure that all the activities of the club meet regulations and policies of the University of Toronto
 - Coordinate organizational recruitment efforts
-- Book rooms for the tutorials
-- Add tutorials to the repository for people to check
-- Maintain the web sites and member contact list
 - Notify all members of meetings
-- Manage and maintain updates from the Web Design & Graphics
-- Manage and regulate the tutorial and seminar presenters
+- Manage and maintain updates from the initiative teams
+- Seek professionals and companies for sponsorships, professional seminars and talks
+- Maintain updates and connections with the Departments
 
 ### Executive Secretary
 
 The Executive Secretary shall:
 
+- Record notes and motions for meetings
+- Maintain documentation for events and initiatives
+- Manage club calendar, internal tasks, and roadmap
+- Moderate social media and communication channels
+- Keep track of the list of current active projects registered under the club
+- Keep track of the list of members working on the certain projects.
+
+### Finance Director
+
+The Finance Director shall:
+
 - Record all financial transactions of the group
-- Hold signing officer authority along with the President for financial purposes
+- Hold **signing officer authority** along with the President for financial purposes
 - Maintain a budget of income and expenses along with receipts
 - Advise members on financial position of the group
 - Prepare an annual budget for the group as well as budgets for specific events
 - Keep track of the blank bank checks and receipts
 
-### Resource Director
+### Marketing Director
 
-The Resource Director shall:
+The Marketing Director shall:
 
-- Keep track of the list of current active projects registered under the club
-- Keep track of the list of members working on the certain projects.
-- Ensure and regulate the projects and leaders working under the projects
-- Moderate communications channels.
-- Setup meeting rooms (virtual)
-- Cooperate with the Technology Chief
+- Manage the development of graphics and marketing material for the club
+- Ensure brand consistency is followed all in club activities
+- Collaborate with Exective Secretary to update social media platforms and establish a strong social media presence
+- Plan out timeline and set deadlines to grow Web Development Club’s community
 
-### Technology Chief
+### Technology Director
 
-The Technology Chief shall:
+The Technology Director shall:
 
-- Responsible for maintaining the permissions to access into the Code Provisioning accounts
+- Maintain access to accounts for source code and technological infrastructure
 - Responsible for maintaining code provisioning configurations
-- Responsible for configuring communication channels 
-- Work with Project and Workshop Directors to curate resources.
-- Gain/remove permission for individual users and project leaders
-- Maintain the access and passwords for paid services and files
+- Responsible for configuring communication channels
+- Work with Project and Workshop Directors to curate resources
 - Keep track of all assets currently controlled by the club
-- Store the passwords and account names in a reliable 2 factor-authenticated password manager.
-
-### Public Relations
-
-The Public Relations shall:
-
-- Manage and maintain updates from the Faculty Liaison
-- Find and book venues to hold these events. 
-- Advertise the events within UofT regulations in the form of hackathons, entrepreneur social events, and professional company recruitment events
-- Put together a team of members, if help is needed to run the events
-- Seek professionals and companies for sponsorships, professional seminars and talks
-
-### Web Design & Graphics
-
-The Web Design & Graphics shall:
-
-- Design the logo, banner and arts for the club webpage
-- Assist the development team with art and illustration related assistance.
-- Design the promotion posters and WebPages for external events
-
-### Faculty Liason
-
-The Faculty Liaison shall:
-
-- Maintain updates and connections with the Departments
-- Request faculty support and assistance for events and seminars if necessary
-- Coordinate the transfer of projects between the faculty and the club
+- Maintain the web sites and member contact list
 
 ## Finances
 
 The President, VP and Executive Secretary will open a bank account under the group's name. The President, VP and Executive Secretary will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the Executive Secretary if funds are to be withdrawn. A receipt must be produced for records.
 
-The Executive Secretary shall keep records of all income and expenses. The Executive Secretary shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over $100.00 by majority vote at an executive meeting.
+The Executive Secretary shall keep records of all income and expenses. The Executive Secretary shall present the group’s financial health at the annual general meetings. The Executive Committee will vote on expenditures of over \$100.00 by majority vote at an executive meeting.
 
 The group’s executive or members may not engage in activities that are essentially commercial in nature. This is not intended to preclude the collection of membership fees to cover the expenses of the group, or of charges for specific activities, programs or events, or to prohibit groups from engaging in legitimate fundraising. However, the group will not have as a major activity a function that makes it an on-campus part of a commercial organization, will not provide services and goods at a profit when that profit is used for purposes other than those of the organization, and will not pay salaries to some or all of its officers
 
@@ -156,21 +144,21 @@ The CRO Returning Officer shall accept nominations only from group members that 
 
 The CRO shall select three (3) election dates before March 30th for the voting period. These dates will be announced in a minimum of two (2) weeks prior to elections dates and must fall on weekdays.
 
-The CRO and Scrutinizers shall provide each voting U of T registered student with a paper ballot on the voting dates and ask the student to place their ballot in an enclosed box. 
+The CRO and Scrutinizers shall provide each voting U of T registered student with a paper ballot on the voting dates and ask the student to place their ballot in an enclosed box.
 
 In preparation for a tie, the CRO shall select a U of T registered student executive from amongst the executive committee, to cast their ballot and seal it in an envelope. In the event of a tie for an executive position, one of the two Scrutinizers shall break the seal and count the ballot in order to break the tie.
 
-After the election is over, the CRO and Scrutinizers shall count the ballots. The candidate with the most votes shall be elected to the position. The CRO and Scrutinizers shall submit a report of the results of the elections to the Executive Committee and general members. 
+After the election is over, the CRO and Scrutinizers shall count the ballots. The candidate with the most votes shall be elected to the position. The CRO and Scrutinizers shall submit a report of the results of the elections to the Executive Committee and general members.
 
-Registered U of T students may not vote by proxy. Non-registered students may not nominate or vote in elections. 
+Registered U of T students may not vote by proxy. Non-registered students may not nominate or vote in elections.
 
 Only registered U of T students who have paid any applicable membership fees and have been a member in good standing for 30 days prior to election dates are eligible for voting.
 
 Term of executive positions shall be from May 1st to April 30th.
 
-
 ### Candidate Nominations
-A record of all their participations within the club, their development skills, and their resume.
+
+A member of the Web Development Club can only apply to run for one executive position. The nomination package must include five signatures from other members of the club, a record of all their participations within the club, their development skills, and their resume.
 
 ### Maximum term of Executive Council
 
@@ -190,11 +178,8 @@ The executive committee shall meet on a monthly basis where date and times are t
 
 ## Amendments
 
-Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general
-meetings.
+Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general meetings.
 
 Constitutional amendments can be made at any time but will require 2/3rd of the exeuctive vote to pass.
 
-Amendment changes will be noted in an index form at the end of the constitution.
-
-The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by executive members.
+The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by general members.
