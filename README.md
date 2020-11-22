@@ -179,8 +179,6 @@ The executive committee shall meet on a monthly basis where date and times are t
 
 ## Amendments
 
-Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general meetings.
-
-Constitutional amendments can be made at any time but will require 2/3rd of the executive vote to pass.
+Constitutional amendments can be proposed at the executive monthly meetings but will require 2/3rd of the executive vote to pass.
 
 The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by general members.
