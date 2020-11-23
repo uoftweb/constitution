@@ -113,7 +113,7 @@ The Marketing Director shall:
 
 - Manage the development of graphics and marketing material for the club
 - Ensure brand consistency is followed all in club activities
-- Collaborate with Exective Secretary to update social media platforms and establish a strong social media presence
+- Collaborate with Executive Secretary to update social media platforms and establish a strong social media presence
 - Plan out timeline and set deadlines to grow Web Development Club’s community
 
 ### Technology Director
