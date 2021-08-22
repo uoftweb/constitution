@@ -38,7 +38,7 @@ For recognition by the University of Toronto Students’ Union (UTSU), the group
 
 ## Termination of Executives or General Members
 
-Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal. The member up for removal shall have the right to defend his/her actions. A vote will be held at an executive meeting, and a two-thirds majority vote of the current executives present in favor of removal is required. The member must have the right to an appeal before the general membership, and the majority vote of the general membership will have the final say on the matter.
+Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal. The member up for removal shall have the right to defend their actions. A two-thirds majority vote of the current general members and of at least one executive member in favor of removal is required. The member must have the right to an appeal before the general and executive membership. If the aforementioned vote goes through, the member will be removed from the club’s membership and will lose any privileges associated with being a member of the club.  
 
 The member will be removed from the club’s membership and will lose any privileges associated with being a member of the club.
 
@@ -62,7 +62,7 @@ The executive committee shall be comprised of six officers. These include:
 - [Co-Vice President](#vice-president)
 - [Co-Vice President](#vice-president)
 - [Technology Director](#technology-director)
-- [Finance Director](#finanec-director)
+- [Finance Director](#finance-director)
 
 
 All members on the executive committee are given equal voting rights on issues.
@@ -117,6 +117,9 @@ The Technology Director shall:
 - Keep track of all assets currently controlled by the club
 - Maintain the web sites and member contact list
 
+## Mentors 
+The club’s mentors are chosen exclusively by members of the executive team. Subsequently, a certain number of mentees is allocated to that specific mentor depending on his technical experience, leadership experience, tenure at the club. Mentors are regarded as general members. Mentors do not have the same voting privlleges as executives.
+
 ## Finances
 
 The President, VP and Finance Director will open a bank account under the group's name. The President, VP and Finance Director will be the official signing officers for the group financial procedures. All other members will have to seek permission (written) of the Finance Director if funds are to be withdrawn. A receipt must be produced for records.
@@ -137,7 +140,9 @@ The CRO shall select three (3) election dates before March 30th for the voting p
 
 The CRO and Scrutinizers shall provide each voting U of T registered student with a paper ballot on the voting dates and ask the student to place their ballot in an enclosed box.
 
-In preparation for a tie, the CRO shall select a U of T registered student executive from amongst the executive committee, to cast their ballot and seal it in an envelope. In the event of a tie for an executive position, one of the two Scrutinizers shall break the seal and count the ballot in order to break the tie.
+In preparation for a tie, the CRO shall select a U of T registered student executive from amongst the executive committee, to cast their ballot and seal it in an envelope. 
+
+In the event of a tie for an executive position, one of the two Scrutinizers shall break the seal and count the ballot in order to break the tie.
 
 After the election is over, the CRO and Scrutinizers shall count the ballots. The candidate with the most votes shall be elected to the position. The CRO and Scrutinizers shall submit a report of the results of the elections to the Executive Committee and general members.
 
@@ -147,9 +152,10 @@ Only registered U of T students who have paid any applicable membership fees and
 
 Term of executive positions shall be from May 1st to April 30th.
 
+
 ### Candidate Nominations
 
-A member of the Web Development Club can only apply to run for one executive position. The nomination package must include five signatures from other members of the club, a record of all their participations within the club, their development skills, and their resume.
+A member of the Web Development Club can only apply to run for at most two executive positions. The nomination package must include five signatures from general members or executives of the club, a record of all their participations within the club, their development skills, and their resume.
 
 ### Maximum term of Executive Council
 
