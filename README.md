@@ -34,7 +34,7 @@ Non-voting membership may be extended to interested staff, faculty, and alumni, 
 
 **There will be no membership fee.**
 
-For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 15 members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met.
+For recognition by the University of Toronto Students’ Union (UTSU), the group must maintain a minimum of 30 members, a total of 51% of membership are UTSU members. The group must also maintain recognition from the Office of Student Life. These requirements are subject to change and should be checked with UTSU annually to ensure qualifications are met.
 
 ## Termination of Executives or General Members
 
