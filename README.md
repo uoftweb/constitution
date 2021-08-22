@@ -44,6 +44,8 @@ The member will be removed from the club’s membership and will lose any privil
 
 Executive members are subject to the same termination or impeachment process and, as determined by the vote, may lose their executive position along with their membership to the group.
 
+
+
 ### Impeachment procedure
 
 1. The member-in-question (general or executive) is provided a verbal warning regarding their conduct,
@@ -55,18 +57,19 @@ Executive members are subject to the same termination or impeachment process and
 
 The executive committee shall be comprised of six officers. These include:
 
-- [President](#president)
-- [Vice President](#vice-president)
-- [Executive Secretary](#executive-secretary)
-- [Finance Director](#finance-director)
-- [Marketing Director](#marketing-director)
+- [Co-President](#president)
+- [Co-President](#president)
+- [Co-Vice President](#vice-president)
+- [Co-Vice President](#vice-president)
 - [Technology Director](#technology-director)
+- [Finance Director](#finanec-director)
+
 
 All members on the executive committee are given equal voting rights on issues.
 
-### President
+### Co-President
 
-The President shall:
+The Co-President (President) shall:
 
 - Oversee the operations, management and success of the club
 - Be the spokesperson for the club
@@ -78,9 +81,9 @@ The President shall:
 - Handle official correspondence of the organization
 - Manage club membership and responsibilities
 
-### Vice President
+### Co-Vice President
 
-The Vice President shall:
+The Co-Vice Presdient (Vice President) shall:
 
 - Assume duties of the President in his/her absence (including **signing office authority**)
 - Oversee the various initiatives of the club
@@ -90,17 +93,6 @@ The Vice President shall:
 - Manage and maintain updates from the initiative teams
 - Seek professionals and companies for sponsorships, professional seminars and talks
 - Maintain updates and connections with the Departments
-
-### Executive Secretary
-
-The Executive Secretary shall:
-
-- Record notes and motions for meetings
-- Maintain documentation for events and initiatives
-- Manage club calendar, internal tasks, and roadmap
-- Moderate social media and communication channels
-- Keep track of the list of current active projects registered under the club
-- Keep track of the list of members working on the certain projects.
 
 ### Finance Director
 
@@ -113,14 +105,6 @@ The Finance Director shall:
 - Prepare an annual budget for the group as well as budgets for specific events
 - Keep track of the blank bank checks and receipts
 
-### Marketing Director
-
-The Marketing Director shall:
-
-- Manage the development of graphics and marketing material for the club
-- Ensure brand consistency is followed all in club activities
-- Collaborate with Exective Secretary to update social media platforms and establish a strong social media presence
-- Plan out timeline and set deadlines to grow Web Development Club’s community
 
 ### Technology Director
 
