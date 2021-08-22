@@ -167,14 +167,54 @@ No executive positions are open for re-election. Rather, future executive member
 
 The group shall hold general meetings at least twice per year, i.e. once per academic term.
 
-The Executive Committee will announce these dates two (2) weeks prior to holding the meetings. These meetings are intended to go over the group’s annual activity plan, financial health and propose or vote on constitutional amendments, if any. Motions will require 2/3 majority of registered executive members in attendence or not in attendence to pass. The motion with the most votes will be passed.
+The Executive Committee will announce these dates two (2) weeks prior to holding the meetings. These meetings are intended to go over the group’s annual activity plan, financial health and propose or vote on constitutional amendments, if any. Motions will require 75% majority of registered executive members in attendence to pass. The motion with the most votes will be passed.
 
 ### Executive Meetings
 
-The executive committee shall meet on a monthly basis where date and times are to be set by an executive. The quorum of executive meetings shall be 50%+1 of executives. The quorum is assumed to be present unless an explicit roll call is made.
+The executive committee shall meet on a monthly basis where the date and time is is set and agreed upon by all executives.
 
 ## Amendments
+Any registered U of T members may propose and vote on amendments to this constitution. The Executive Committee will administer the process of having amendments discussed at general meetings.
 
-Constitutional amendments can be proposed at the executive monthly meetings but will require 2/3rd of the executive vote to pass.
+Constitutional amendments can be proposed at the executive monthly meetings but will require 75% of the executive vote to pass.
 
 The Executive Committee shall formally adopt the new constitution and submit the revised constitution to the respective University offices (i.e. The Office of Student Life, The University of Toronto Students’ Union, etc) within two (2) weeks of its approval by general members.
+
+Appendix A   
+I. Call to Order
+1. The Chairperson may call the meeting to order only if a quorum of executives and non-executive general members is present in person. If a quorum does not exist, the meeting is not qualified to conduct business. A member may not appear by proxy or mail ballot.
+2. The meeting must be open to all applicable members. General members must receive notice of the meeting in accordance with the constitution.
+II. Review of the Agenda
+1. The first draft of the agenda is prepared by the chairperson prior to the meeting. Agenda items should ordinarily appear in the order set forth in these rules of order.
+2. The agenda belongs to all members. The agenda may be modified only by a majority vote. This power should only be used when necessary as proper functioning of meetings and the organization requires advance planning.
+3. At this point in the agenda, members may add or delete items from the agenda and may change the order of presentation.
+4. When possible, changes to the agenda should be done by acquiescence of all general members. Formal voting on the agenda is only necessary where it appears to the chairperson that there is a disagreement.
+ III. Approval of Previous Minutes
+1. The minutes need not be read aloud but they should be entered into the organization’s official minute ledger upon approval by the club’s members.
+2. The minutes are prepared by the Vice President of the club. Any member may suggest changes to the minutes before the club’s members adopt them. The suggested changes should be set forth in the minutes for the record, and then the club’s members should adopt or reject such changes.
+3. Minutes should state precisely each motion considered by the club’s members, and identify the members voting in favor, against, or abstaining, and whether the motion was carried. Minutes need not reflect the comments made except in those instances when the member desires to make his/her comments recorded.
+4. When possible, changes to the minutes and adoption of the minutes should be done by acquiescence of all members. Formal voting on the minutes is only necessary where it appears to the Chairperson that there is a disagreement.
+ 
+IV. Executive Reports
+1. Executives may report their findings or recommendations to the general membership at this point of the agenda.
+2. The full report should be presented and then general members, in turn, may ask questions or comment. It is not appropriate to make motions or discuss items of business during this portion of the meeting.
+3. This time should also be used for any presentations to be made to the general membership. 
+ 
+V. Open Forum
+1. It is the custom and practice of most organizations to allow general members an open forum to ask questions and speak about their concerns to an executive after a report has been provided.
+2. Strict time limitations should be imposed by the Chairperson and these limitations must be enforced. Each general member should address the Chairperson regarding an issue and must speak courteously and to the point.
+ 
+VI. Old and New Business
+1. All items that were tabled during previous meetings must be revisited during the business portion of the agenda occurring after executive reports.
+2. The club’s members may vote to postpone consideration of any old business or it may remove any item from consideration.
+3. Except in the case of emergency business, all new items of business are heard only after all of the old items have been addressed by the club’s members.
+4. All business must be conducted in the form of motions or resolutions adopted by a vote of the club’s members.
+ 
+VII. Motions and Deliberations
+1. When an item of business is to be discussed, the Chairperson announces the item to be discussed and opens the floor to discussion.
+2. No general member may speak until recognized by the Chairperson. No general member may interrupt the speaker who has the floor.
+3. The Chairperson may impose reasonable time limitations. All time limitations must be uniformly imposed upon all of the general members. The speaker shall be given a one-minute warning before time runs out.
+4. The Chairperson is to recognize each general member in turn. Discussion shall be limited to the item of business at hand, and the Chairperson shall have the authority to take the floor from a speaker who does not limit discussion to the item of business at hand.
+5. No general member may speak to an issue for a second time until all other general members have had the opportunity to speak to it for the first time. Likewise, no general member may speak to an issue for a third time until all other general members have had the opportunity to speak to it for a second time.
+6. When it appears to the Chairperson that all general members have had the opportunity to fully discuss the matter at hand, the Chair should announce that the item of business is ready for a vote.
+
