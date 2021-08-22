@@ -2,10 +2,11 @@
 
 ## Name
 
-The official name of this recognized student group is `UofT Web Development Club`.
+The official name of this recognized student group is `Uniersity of Toronto Web Development Club`.
 
 The acronym(s) or abbreviation(s) of this group are:
 
+- `UofT Web`
 - `Web Dev Club`
 - `UofT WDC`
 - `WDC`
@@ -15,12 +16,17 @@ The acronym(s) or abbreviation(s) of this group are:
 The purpose of the Web Development Club is:
 
 > "To promote a positive academic and social environment for members to enhance their web development skills."
+The club aims to host seminars, workshops, social events, and professional events events to facilitate the learning of web development and to build a strong community with a passion for web development. Moreover, the club seeks to appeal to non-technical users; facilitate mentor-mentee interactions; to expand on more advanced topics for experienced web developers; to equip members with all the necessary knowledge and technologies to design and develop interactive, multipage and data driven web applications. 
 
-The club aims to host seminars, development sessions, hackathons, entrepreneur social events, and professional company recruitment events to improve the development skills and future career opportunities for members and non-members of the UofT community.
+The club’s objectives are to 1) have twenty members by the end of 2020 2) establish a robust communication system between the mentors and mentees 3) finalize the managerial positions at the club and 4) create an amicable atmosphere for all members at the club.
+
+The club’s vision is to become an upstanding institution that spans a large network of mentors and mentees that collaborate on various intriguing web development projects and network amongst themselves to attain contacts for their future career.
+
+The club is open to anyone within and outisde the University of Toronto regardless of age, gender, race, nationality, sexual, or religious orientation. Throughout this document all members who are part of University of Toronto will be referred as “general members”.
 
 ## Membership
 
-Executive members with voting privileges shall be currently registered students of the University of Toronto.
+Executive members with voting privileges shall be currently registered students of the University of Toronto at the St George Campus.
 
 Staff, faculty, or alumni members may hold non-voting executive positions. These non-voting executive positions shall be limited to a maximum of one (1) or ten per cent (10%) of the full executive body, whichever is greatest. Persons holding these non-voting executive positions cannot serve as an officer (including financial signing officer) or contact person of the Student Group.
 
