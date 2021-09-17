@@ -2,7 +2,7 @@
 
 ## Name
 
-The official name of this recognized student group is `Uniersity of Toronto Web Development Club`.
+The official name of this recognized student group is `University of Toronto Web Development Club`.
 
 The acronym(s) or abbreviation(s) of this group are:
 
